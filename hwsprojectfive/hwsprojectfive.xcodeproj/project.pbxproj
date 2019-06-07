@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		751745EA22AA4AC300DAFE72 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 751745E922AA4AC300DAFE72 /* start.txt */; };
 		75F502CC22AA477A006E97D1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75F502CB22AA477A006E97D1 /* AppDelegate.swift */; };
 		75F502CE22AA477A006E97D1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75F502CD22AA477A006E97D1 /* ViewController.swift */; };
 		75F502D122AA477A006E97D1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75F502CF22AA477A006E97D1 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		751745E922AA4AC300DAFE72 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 		75F502C822AA477A006E97D1 /* hwsprojectfive.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hwsprojectfive.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		75F502CB22AA477A006E97D1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		75F502CD22AA477A006E97D1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 			children = (
 				75F502CA22AA477A006E97D1 /* hwsprojectfive */,
 				75F502C922AA477A006E97D1 /* Products */,
+				751745E922AA4AC300DAFE72 /* start.txt */,
 			);
 			sourceTree = "<group>";
 		};
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				75F502D622AA477C006E97D1 /* LaunchScreen.storyboard in Resources */,
+				751745EA22AA4AC300DAFE72 /* start.txt in Resources */,
 				75F502D322AA477C006E97D1 /* Assets.xcassets in Resources */,
 				75F502D122AA477A006E97D1 /* Main.storyboard in Resources */,
 			);
